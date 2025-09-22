@@ -4,10 +4,13 @@ This is a ChatGPT reproduction of some of the base features from the previous NH
 Currently this has only been tested on the most recent version of Chrome: Version 140.0.7339.128
 
 
+
+
 How to install the extension
 
 Chrome
-Downloadthe  "nhentai Downloader.zip" from the releases page, unzip it somewhere in your computer.
+
+Download the "nhentai Downloader.zip" from the releases page, unzip it somewhere in your computer.
 
 Write chrome://extensions/ in your address bar
 
