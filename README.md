@@ -1,7 +1,7 @@
 How to install the extension
 
 Chrome
-Downloadthe  "nhentai Downloader.zip", unzip it somewhere in your computer.
+Downloadthe  "nhentai Downloader.zip" from the releases page, unzip it somewhere in your computer.
 
 Write chrome://extensions/ in your address bar
 
